@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software QA
 - 🌱 I’m currently learning ML/AI
 - 💞️ I’m looking to collaborate on Github and Gitlab
-- 📫 Connect me on lLinkedIn, Twitter, IG as h4harris 
+- 📫 Connect with me on LinkedIn, Twitter, IG as h4harris 
 - 😄 He
 - ⚡ Singularity is near
 
